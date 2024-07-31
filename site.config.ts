@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '2skydev blog',
-  domain: 'blog.2skydev.com',
-  author: '2skydev',
+  name: 'mingguriguri blog',
+  domain: 'blog.mingguriguri.com',
+  author: 'minggirokkk',
 
   // open graph metadata (optional)
-  description: '2skydev blog - developer blog',
+  description: 'mingguriguri - developer blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: '2skydev',
-  // linkedin: 'fisch2',
+  github: 'mingguriguri',
+  linkedin: 'minjeongkim0925',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -69,7 +69,7 @@ export default siteConfig({
   dateformat: 'yyyy년 MM월 dd일',
 
   // post page - hidden properties
-  hiddenPostProperties: ['설명', '상태', '최하위 정렬'],
+  hiddenPostProperties: ['설명', '상태'],
 
   // contentPosition (table of contents) text align
   contentPositionTextAlign: 'left',
